@@ -8,7 +8,7 @@ At [Google](github.com/google), I joined [Flutter](github.com/flutter) team and 
 
 I'm currently in love with front end and UI-related engineering, with Flutter as my current favorite framework 😍
 
-I'm a huge nerd and I love playing JRPG video games and watching anime during my leisure! ⚽
+I'm a huge nerd and I love playing JRPG video games and watching anime during my leisure ⚽
 Also, I like to speed type and I can type around 150-160 word per minute on average. Hit me up on [TypeRacer](https://data.typeracer.com/pit/profile?user=adalberht) ⭐
 
 ## 📝 Get in touch with me!
