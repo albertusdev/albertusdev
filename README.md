@@ -1,4 +1,4 @@
-# Albertus Angga Raharja —— @adalberht
+# Albertus Angga Raharja —— @albertusdev
 Hi there 👋 
 
 My name is Albert and I'm currently a final year Computer Science major studying at University of Indonesia 🏫.
@@ -12,7 +12,7 @@ I'm a huge nerd and I love playing JRPG video games and watching anime during my
 Also, I like to speed type and I can type around 150-160 word per minute on average. Hit me up on [TypeRacer](https://data.typeracer.com/pit/profile?user=adalberht) ⭐
 
 ## 📝 Get in touch with me!
-- [Twitter](https://www.twitter.com/adalberht)
+- [Twitter](https://www.twitter.com/albertusdev)
 - [LinkedIn](https://www.linkedin.com/in/albertusangga)
 
 <!--
