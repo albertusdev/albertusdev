@@ -1,7 +1,9 @@
 # Albertus Angga Raharja —— @albertusdev
 Hi there 👋 
 
-My name is Albert and I'm currently a final year Computer Science major studying at University of Indonesia 🏫.
+My name is Albert and I'm currently a software engineer at [Stripe](github.com/stripe).
+
+I studied Computer Science and graduated from University of Indonesia 🏫.
 Throughout my 4 years of studies I've had the chances to intern as a software engineer in several top IT companies like [Google](github.com/google), [Gojek](github.com/gojek), and [Traveloka](github.com/traveloka).
 
 At [Google](github.com/google), I joined [Flutter](github.com/flutter) team and created a new feature called [Layout Explorer](https://flutter.dev/docs/development/tools/devtools/inspector#flutter-layout-explorer) that helps people to understand Flex Layout in Flutter.
